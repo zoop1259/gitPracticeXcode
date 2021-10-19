@@ -36,6 +36,7 @@
                     </view>
                     <connections>
                         <outlet property="firstbranch" destination="ujh-12-S0H" id="H9D-F5-uxL"/>
+                        <outlet property="secbranch" destination="va7-LB-CJ1" id="IkC-sO-2fz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
